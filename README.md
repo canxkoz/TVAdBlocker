@@ -1,3 +1,3 @@
 # TVAdBlocker
 
-![It works](itworks.jpg)
+![It works](itworks.png)
